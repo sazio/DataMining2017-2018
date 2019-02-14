@@ -1,0 +1,6 @@
+#questa è un prova: vogliio caricare questo file su jupyter
+
+print("inizia")
+for i in "sto importando":
+	print(i)
+print("fine")
